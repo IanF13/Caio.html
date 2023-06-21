@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Site do Flamengo</title>
+    <style>
+        body {
+                  background-color: #FF0000;
+                        text-align: center;
+        }
+            
+                h1 {
+                          color: #FFFFFF;
+                                font-family: Arial, sans-serif;
+                }
+                    
+                        .button {
+                                  display: inline-block;
+                                        padding: 10px 20px;
+                                              background-color: #000000;
+                                                    color: #FFFFFF;
+                                                          text-decoration: none;
+                                                                font-family: Arial, sans-serif;
+                                                                      font-size: 18px;
+                                                                            border-radius: 5px;
+                                                                                  margin: 10px;
+                        }
+                          </style>
+                          </head>
+                          <body>
+                            <h1>Site do Flamengo</h1>
+                              <img src="caminho/para/imagem/flamengo.jpg" alt="Flamengo">
+                                <br><br>
+                                  <a class="button" href="#historia">História</a>
+                                    <a class="button" href="#elenco">Elenco</a>
+                                      <a class="button" href="#titulos">Títulos</a>
+                                        <br><br>
+                                          <h2 id="historia">História</h2>
+                                            <p>Texto sobre a história do Flamengo.</p>
+                                              <h2 id="elenco">Elenco</h2>
+                                                <p>Texto sobre o elenco atual do Flamengo.</p>
+                                                  <h2 id="titulos">Títulos</h2>
+                                                    <p>Texto sobre os títulos conquistados
+                                                    
+                        }
+                }
+        }
